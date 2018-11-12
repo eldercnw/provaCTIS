@@ -9,3 +9,4 @@ Para o uso do programa desenvolvido em aplicativo de console .NET
   *Não é permitido a entreda de um elemento <= -100 ou >= 100.
 
 Quanto ao teste de SQL 
+  Está em um arquvivo txt "queryCityCountry", como deveria ser feito a consulta.
